@@ -1,0 +1,31 @@
+{
+  "name": "react_pract",
+  "version": "1.0.0",
+  "description": "This is created by Devanshu Dudhia",
+  "scripts": {
+    "test": "jest",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devanshudd/React_pract.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Devanshu Dudhia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devanshudd/React_pract/issues"
+  },
+  "homepage": "https://github.com/Devanshudd/React_pract#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
